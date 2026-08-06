@@ -51,7 +51,7 @@ Data Engineer with deep, hands-on **SQL Server / T-SQL** experience and full cov
 - **Unstructured Data Enrichment & Vector Search Pipeline**
   OCR and NER-based document parsing, data enrichment, and vector database loading for semantic search.
 
-Full write-ups: see the [portfolio site](https://yusuf-kamal.github.io/portfolio/) or the `/projects` folder in this repo.
+Full write-ups: see the [portfolio site](https://yusuf-kamal.github.io/Portfolio/) or the `/projects` folder in this repo.
 
 ## 📫 Contact
 
