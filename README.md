@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-yusuf__kamal%40outlook.com-E8A33D?style=flat-square)](mailto:yusuf_kamal@outlook.com)
 [![Phone](https://img.shields.io/badge/Phone-01113002331-3FD0C9?style=flat-square)](tel:+201113002331)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yusuf--kamal-0A66C2?style=flat-square)](https://www.linkedin.com/in/yusuf-kamal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A0E1A?style=flat-square)](https://yusuf-kamal.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A0E1A?style=flat-square)](https://yusuf-kamal.github.io/Portfolio/)
 
 </div>
 
