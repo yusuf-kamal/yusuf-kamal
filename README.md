@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"style="background-color: #0D1117; color: #FFFFFF;">
 
 # Hi, I'm Yusuf Kamal 👋
 ### Data Engineer · SQL Server / T-SQL · Data Warehousing & ETL · Modern Data Stack
